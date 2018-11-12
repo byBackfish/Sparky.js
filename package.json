@@ -1,0 +1,27 @@
+{
+  "name": "sparkybot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "node main.js",
+    "start": "node main.js debug"
+  },
+  "author": "",
+  "licence": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "colors": "^1.1.2",
+    "discord.js": "^11.4.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "fortnite": "^4.1.1",
+    "mysql": "^2.16.0",
+    "pornhub": "0.0.5",
+    "pornhub-api": "0.0.1",
+    "pornsearch": "^2.4.2"
+  },
+  "devDependencies": {
+    "coffeescript": "^2.3.2"
+  }
+}

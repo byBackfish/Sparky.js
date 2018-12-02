@@ -1,31 +1,31 @@
 {
     
     "namechange":{
-        "price": 1250
+        "price": "1250"
     },
     
     "test":{
-   "price": 2000
+   "price": "2000"
 },
     
     "1":{
-   "price": 1250
+   "price": "100"
 },
     
     "2":{
-   "price": 1250
+   "price": "1250"
 },
     
     "3":{
-   "price": 1250
+   "price": "250"
 },
     
     "4":{
-   "price": 1250
+   "price": "1250"
 },
     
     "5":{
-   "price": 1250
+   "price": "1250"
 }
 
 
